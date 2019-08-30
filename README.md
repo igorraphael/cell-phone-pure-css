@@ -2,7 +2,7 @@
 
 This repository represents a mobile mockup screen made with HTML + CSS.
 
-![cell-phone-image](cell-phone-css.png)
+![cell-phone-image](https://github.com/igorraphael/cell-phone-pure-css/blob/master/cell-phone-img.PNG)
 
 # Author
 (* unknown Author *) 
